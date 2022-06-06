@@ -56,8 +56,11 @@ def printInfo(dict1:dict):
        print(len(list), key)
        for x in list:
            print(x)
-
+       print("")
 printInfo(dojo)
+
+
+
 
 
 
